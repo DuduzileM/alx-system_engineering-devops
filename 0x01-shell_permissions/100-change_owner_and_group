@@ -1,2 +1,3 @@
-chgrb staff
-chown vincent 
+#!/bin/bash
+ vincent staff
+ 
